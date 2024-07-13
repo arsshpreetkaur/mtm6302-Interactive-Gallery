@@ -5,10 +5,15 @@ Professor: Surag Patel
 Interactive Gallery
 
 Step:1 Full Outlook
-![image](https://github.com/user-attachments/assets/4ea6126d-5848-4807-b867-da940579f09c)
+![image](https://github.com/user-attachments/assets/703d03b8-2c80-48de-bb82-8f06ae578d9e)
 
-Step:2 HD look
 
-![image](https://github.com/user-attachments/assets/3bb216c6-55a2-4c11-953f-b2b608e9f3b0)
+Step:2 Slideshow of all Images!
+
+![image](https://github.com/user-attachments/assets/49fefac9-f3b4-4e1c-9a63-26a5a50e9369)
+
+Step: 3 HD images look!
+
+![image](https://github.com/user-attachments/assets/46730cde-b6e8-4ed0-ac45-3a8024fa6542)
 
 
